@@ -2,6 +2,8 @@
 
 > A minimal ponyfill/polyfill implementing proposed `Array.prototype.replace` for ECMAScript (JavaScript)
 
+The ECMAScript Stage 4 proposal for [object rest spread](https://github.com/tc39/proposal-object-rest-spread) allows single-statement cloning-and-key-replacement for plain objects. This proposal for the standard library provides equivalent functionality for arrays.
+
 ### `arrayReplace(array, index, value)`
 
 ```js
