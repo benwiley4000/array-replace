@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/benwiley4000/array-replace/issues"
   },
-  "homepage": "https://github.com/benwiley4000/array-replace#readme"
+  "homepage": "https://github.com/benwiley4000/array-replace#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
