@@ -1,5 +1,5 @@
 {
-  "name": "@benwiley/array-replace",
+  "name": "@benwiley4000/array-replace",
   "version": "0.1.0",
   "description": "A minimal ponyfill/polyfill implementing proposed `Array.prototype.replace` for ECMAScript (JavaScript)",
   "main": "array-replace.js",
