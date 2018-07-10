@@ -33,7 +33,7 @@ const array4 = array3.replace({ 1: 7, 3: 48 }); // [1,7,3,48,5]
 In Node/Webpack/Browserify/Rollup/etc:
 
 ```console
-npm install @benwiley4000/array-replace
+npm install @benwiley/array-replace
 ```
 
 ```js
@@ -47,7 +47,7 @@ arrayReplace.polyfill();
 In a browser script tag:
 
 ```html
-<script src="https://unpkg.com/@benwiley4000/array-replace"></script>
+<script src="https://unpkg.com/@benwiley/array-replace"></script>
 <script>
   // if you want to polyfill...
   arrayReplace.polyfill();
